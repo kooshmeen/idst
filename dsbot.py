@@ -1,3 +1,7 @@
+
+#Copyright 2022 Tonita Cosmin
+#GPL-3.0-only
+
 #!./.venv/bin/python
 import discord      # base discord module
 import code         # code.interact
