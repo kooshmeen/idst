@@ -3,6 +3,9 @@
 #GPL-3.0-only
 
 #!./.venv/bin/python
+import argparse
+parser = argparse.ArgumentParser()
+parser.parse_args()
 import discord      # base discord module
 import code         # code.interact
 import os           # environment variables
